@@ -1,0 +1,25 @@
+.header {
+    background: linear-gradient(135deg, #2a2a2a, #3b3b3b); 
+    color: #e0e0e0; 
+    text-align: center;
+    padding: 2rem;
+    border-bottom: 4px solid #444; 
+    border-radius: 0 0 10px 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
+}
+
+.header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-family: 'Georgia', serif; 
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.header p {
+    margin: 0.5rem 0 0;
+    font-size: 1.2rem;
+    font-family: 'Georgia', serif; 
+    color: #c0c0c0; 
+}
+
